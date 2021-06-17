@@ -7,7 +7,7 @@
 Position of snakes: {17 : 7, 54 : 34, 62 : 19, 98 : 79}
 Position of ladders: {3 : 38, 24 : 33, 42 : 93, 72 : 84}
 
-#Structure:
+# Structure:
 ● The game will only be text output based, i.e. no GUI will be shown to the user. Instead, it will use print statements to display the position of a particular player, 
   end results etc.
 ● There are only 2 players in the game and no spectators are allowed.
